@@ -1,0 +1,35 @@
+.container {
+    padding: 1rem;
+  }
+  
+  .back {
+    display: inline-block;
+    margin-bottom: 1rem;
+    color: #0077ff;
+    text-decoration: none;
+  }
+  
+  .details {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .poster {
+    width: 200px;
+    border-radius: 8px;
+  }
+  
+  .info {
+    max-width: 600px;
+  }
+  
+  .links ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .links li {
+    margin-bottom: 0.5rem;
+  }
+  

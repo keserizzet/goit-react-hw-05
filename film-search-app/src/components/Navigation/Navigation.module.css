@@ -1,0 +1,16 @@
+.nav {
+    padding: 1rem;
+    background-color: #222;
+  }
+  
+  .link {
+    margin-right: 1rem;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .link.active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
