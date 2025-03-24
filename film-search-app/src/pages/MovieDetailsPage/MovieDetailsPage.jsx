@@ -67,10 +67,10 @@ function MovieDetailsPage() {
         <h3>Additional Info</h3>
         <ul>
           <li>
-            <Link to="cast">Cast</Link>
+            <Link to={`/movies/${movieId}/cast`}>Cast</Link>
           </li>
           <li>
-            <Link to="reviews">Reviews</Link>
+            <Link to={`/movies/${movieId}/reviews`}>Reviews</Link>
           </li>
         </ul>
       </div>
